@@ -24,3 +24,4 @@ View the live dashboard here: [Databricks Dashboard](https://dbc-d7b360d9-7f1f.c
 
 
 
+<img width="883" height="531" alt="business_sales_dashboard" src="https://github.com/user-attachments/assets/9d735ee6-8ff3-420f-a4db-6dbbad2c8987" />
