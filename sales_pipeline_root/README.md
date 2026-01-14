@@ -19,3 +19,8 @@ To get started, go to the `transformations` folder -- most of the relevant sourc
 * Use `Schedule` to run the pipeline on a schedule!
 
 For more tutorials and reference material, see https://docs.databricks.com/ldp.
+
+View the live dashboard here: [Databricks Dashboard](https://dbc-d7b360d9-7f1f.cloud.databricks.com/dashboardsv3/01f0f1181cfb1c549ea9f7ca9ba9f7e8/published?o=2924169760416465&f_5bebfc30%7E9299cc83=West&f_6834a68f%7Etotal-sales-vs-category=%257B%2522columns%2522%253A%255B%2522x%2522%255D%252C%2522rows%2522%253A%255B%255B%2522Stationery%2522%255D%255D%257D)
+
+
+
